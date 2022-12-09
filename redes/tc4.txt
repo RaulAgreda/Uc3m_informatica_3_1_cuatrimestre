@@ -1,0 +1,107 @@
+Cuáles de los siguientes protocolos de acceso aleatorio MAC es INCORRECTO
+Seleccione una:
+
+a. CSMA/CD
+
+b. CSMA
+
+c. CSMA/CB
+
+d. CSMA/CA
+
+En CSMA, el tiempo de vulnerabilidad es _____ el tiempo de propagación
+Seleccione una:
+
+a. Tres veces
+
+b. Dos veces
+
+c. El mismo tiempo que
+
+d. Las otras respuestas son incorrectas
+
+Cada estación en una red Ethernet tiene una dirección única de _____ impresa en su NIC (Network Interface Card)
+Seleccione una:
+
+a. 1500 bytes
+
+b. Depende del fabricante
+
+c. Las otras respuestas son incorrectas
+
+d. 32 bits
+
+En IEEE 802.11, el protocolo de acceso múltiple utilizado es:
+
+a. CSMA/CD
+
+b. Las otras respuestas son incorrectas
+
+c. CSMA/CA
+
+d. ALOHA
+
+El protocolo ARP es:
+Seleccione una:
+
+a. Un protocolo de la capa de Transporte
+
+b. Un protocolo de la capa de aplicación
+
+c. Permite obtener la dirección IP a partir de la MAC
+
+d. Permite obtener la MAC a partir de la dirección IP
+
+En _____, cada estación envía una trama tan pronto tiene una trama que enviar
+Seleccione una:
+
+a. ALOHA
+
+b. Ambos ALOHA y ALOHA ranurado
+
+c. ALOHA ranurado
+
+d. Ni ALOHA ni ALOHA ranurado
+
+En IEEE 802.11, un BSS sin un AP (Punto de Acceso) se llama ___
+
+a. Ni ad hoc ni de infraestructura
+
+b. Tanto ad hoc como de infraestructura
+
+c. Una red de infraestructura
+
+d. Una arquitectura ad hoc
+
+Si todos los enlaces de Internet proporcionasen un servicio fiable, ¿sería redundante el servicio de entrega fiable de TCP?
+Seleccione una:
+
+a. No, no sería redundante ya que pese a todo se podrían perder paquetes en los nodos
+
+b. Sí, sería redundante ya que los paquetes perdidos serían recuperados por los propios enlaces
+
+c. Sí, sería redundante ya que no habría posibilidad de que se perdiesen paquetes
+
+d. No, no sería redundante ya que pese a todo se podrían perder paquetes al transmitirlos por los enlaces
+
+Las tramas de nivel de enlace tienen direcciones origen y destino. Estas direcciones son:
+Seleccione una:
+
+a. Las mismas que están encapsuladas en el nivel de red
+
+b. La dirección fuente del emisor y la MAC del siguiente salto
+
+c. La dirección fuente del emisor y la MAC del destino final
+
+d. Las otras respuestas son incorrectas
+
+La responsabilidad del nivel de enlace es transportar datagramas:
+Seleccione una:
+
+a. Al nodo adyacente sobre un enlace directamente conectado
+
+b. Sin proporcionar detección de errores
+
+c. A su destino de nivel de red final
+
+d. Las otras respuestas son incorrectas

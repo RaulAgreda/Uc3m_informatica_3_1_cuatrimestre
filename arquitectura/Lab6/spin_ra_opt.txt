@@ -1,0 +1,28 @@
+Thread: 2
+Time = 5425 microseconds
+Time = 5350 microseconds
+Time = 5201 microseconds
+Time = 5143 microseconds
+Time = 5800 microseconds
+Time = 5300 microseconds
+Thread: 4
+Time = 15697 microseconds
+Time = 14544 microseconds
+Time = 16954 microseconds
+Time = 13983 microseconds
+Time = 14565 microseconds
+Time = 15429 microseconds
+Thread: 8
+Time = 44493 microseconds
+Time = 68957 microseconds
+Time = 56637 microseconds
+Time = 30360 microseconds
+Time = 59193 microseconds
+Time = 40953 microseconds
+Thread: 16
+Time = 144880 microseconds
+Time = 193950 microseconds
+Time = 154428 microseconds
+Time = 160348 microseconds
+Time = 154021 microseconds
+Time = 167333 microseconds
